@@ -22,7 +22,7 @@ let handle_click = (event) => {
 }
 document.addEventListener("click", handle_click);
 const paypal_sdk_url = "https://www.paypal.com/sdk/js";
-const client_id = "REPLACE_WITH_YOUR_CLIENT_ID";
+const client_id = "Ab3YdVR-r-m-SUWqNYt3C46Sh8c9KwvXwcsJwebsZUS4_M8SbU_S0GoPLSBNoYMfl_zShMWxUVZ4vTZV";
 const currency = "USD";
 const intent = "capture";
 let alerts = document.getElementById("alerts");
